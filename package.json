@@ -1,6 +1,6 @@
 {
   "name": "multiple-cucumber-html-reporter",
-  "version": "3.4.0",
+  "version": "1.0.0",
   "description": "Generate beautiful Cucumber.js reports for multiple instances (browsers / devices)",
   "keywords": [
     "cucumber",
@@ -24,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WasiqB/multiple-cucumber-html-reporter.git"
+    "url": "git+https://github.com/lerhum/multiple-cucumber-html-reporter.git"
   },
-  "author": "WasiqB",
+  "author": "lerhumlerhum",
   "bugs": {
-    "url": "https://github.com/WasiqB/multiple-cucumber-html-reporter/issues"
+    "url": "https://github.com/lerhum/multiple-cucumber-html-reporter/issues"
   },
-  "homepage": "https://github.com/WasiqB/multiple-cucumber-html-reporter#readme",
+  "homepage": "https://github.com/lerhum/multiple-cucumber-html-reporter#readme",
   "dependencies": {
     "find": "^0.3.0",
     "fs-extra": "^11.1.1",
